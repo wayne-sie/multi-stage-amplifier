@@ -22,4 +22,5 @@ Designing a multi stage amplifier with the specification:
 
 • Type of transistors: 2 common emitters and 1 common collector;
 
-Notes: • The output voltage is free from distortions (clipping, etc.) for 80mVpk-pk with load and 160mVpk-pk without load.
+
+![multi-stage-amplifier](https://user-images.githubusercontent.com/60293949/134753920-5c069701-e01d-4102-a076-344d79e7636d.png)
